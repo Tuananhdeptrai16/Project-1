@@ -60,7 +60,7 @@ a {
 .hero-wrap {
     position: relative;
     background: rgba(230, 240, 255, 1);
-    height:100vh;
+    height:calc(100vh - 90px);
 }
 .navbar {
     display: flex;
