@@ -5,9 +5,12 @@
 :root {
     --primary-color:rgba(15, 27, 76, 1);
 }
-html {
-    
+html, body {
     font-size: 62.5%;
+
+}
+html {
+    scroll-behavior: smooth;
   
 }
 body {
